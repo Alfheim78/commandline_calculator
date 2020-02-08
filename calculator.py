@@ -4,7 +4,7 @@
 #decided to create this script, anyone who finds
 #finds this useful may use it as declared by me
 
-#Author: Wynand van Staden
+#Author: Alfheim78
 #Student email: 23842911@sun.ac.za
 #Normal email: DefiniteIntegral7@gmail.com
 
@@ -39,7 +39,6 @@ def usage():
     print("[-c(--cos)] --> cosine function")
     print("[-t(--tan)] --> tangent function")
     print("!(--factorial) --> factorial of a value ")
-
 
 if len(sys.argv) < 2:
    usage() 
